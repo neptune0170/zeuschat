@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078904781592",
+    "project_id": "flutter-chat-285ec",
+    "storage_bucket": "flutter-chat-285ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078904781592:android:ebe9128bd7615f8cf0fc6d",
+        "android_client_info": {
+          "package_name": "com.example.zeuschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078904781592-atk2vhjnm2joo1cd318q5r4de5oos2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzH_P6b9OeeTo-KvUP_cEKLcLKL7PLSA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078904781592-atk2vhjnm2joo1cd318q5r4de5oos2vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
